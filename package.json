@@ -1,0 +1,12 @@
+{
+  "name": "vue-viacep",
+  "version": "1.0.1",
+  "description": "Plugin em Vue para consulta no Web Service da Via Cep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Locatelli <mukatk@gmail.com> (https://twitter.com/sml_locatelli)",
+  "license": "ISC",
+  "repository": "github:mukatk/vue-viacep"
+}
