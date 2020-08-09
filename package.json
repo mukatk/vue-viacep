@@ -1,6 +1,6 @@
 {
   "name": "vue-viacep",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Plugin em Vue para consulta no Web Service da Via Cep",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": "github:mukatk/vue-viacep",
   "devDependencies": {
-    "jest": "^24.8.0",
-    "vue": "^2.6.10"
+    "jest": "^24.9.0",
+    "vue": "^2.6.11"
   }
 }
